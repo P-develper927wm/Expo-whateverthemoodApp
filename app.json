@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "my-new-project",
+    "description": "A very interesting project.",
+    "slug": "my-new-project",
+    "privacy": "public",
+    "sdkVersion": "26.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://whatever-the-mood.firebaseapp.com/wtm-logo.png",
+    "splash": {
+      "image": "https://s3.amazonaws.com/exp-us-standard/placeholder-push-icon-blue-circle.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
